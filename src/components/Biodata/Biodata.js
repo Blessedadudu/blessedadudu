@@ -57,7 +57,7 @@ export default function biodata() {
                     {/* <!-- end of single favorite --> */}
                     {/* <!-- resume --> */}
                      <a class="resume" 
-                     href="https://drive.google.com/file/d/18YmvjNgU44THQqvkSY6Xk8kczvHaOWfE/view?usp=sharing" 
+                     href="https://drive.google.com/file/d/1GquwHqv_3_JOKOLTXZj0MVafhNcWwuUj/view?usp=sharing" 
                      target="_blank">
                          click to download resume
                     </a>
