@@ -57,7 +57,7 @@ export default function biodata() {
                     {/* <!-- end of single favorite --> */}
                     {/* <!-- resume --> */}
                      <a class="resume" 
-                     href="https://www.dropbox.com/s/za2qwkcg6e70170/ADUDU%20BLESSED%20DEV%20RESUME.pdf?dl=0" 
+                     href="https://drive.google.com/file/d/18YmvjNgU44THQqvkSY6Xk8kczvHaOWfE/view?usp=sharing" 
                      target="_blank">
                          click to download resume
                     </a>
