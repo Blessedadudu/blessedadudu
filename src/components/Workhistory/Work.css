@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+@media screen and (max-width:768px) {
+    .flex h1, .flex h2 {
+        font-size: 1.1rem;
+    }
+}
