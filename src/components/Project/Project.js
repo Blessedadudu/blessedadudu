@@ -19,7 +19,7 @@ export default function Project() {
                         <div className="project_info">
                             <h1 className="project_info-title">Wealthbuddy</h1>
                             <div className="project_info-underline"></div>
-                            <p className="project_info-text">Using react to build a fintech web app for saving and investing...</p><a href="https://cor-mywealth-project.herokuapp.com/" 
+                            <p className="project_info-text">Using react to build a fintech web app for saving and investing...</p><a href="https://wealthbuddy.netlify.com/" 
                             className="project_info-link" target="_blank">
                             Click to View
                             </a>
