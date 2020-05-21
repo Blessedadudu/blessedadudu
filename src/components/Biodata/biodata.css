@@ -24,6 +24,8 @@
 .aboutme-info_member-text {
   line-height: 1.5;
   margin-top: 1rem;
+  /* font-weight: 500; */
+  /* font-size: 16pt; */
 }
 .aboutme-info_member-single-favorite {
   display: flex;

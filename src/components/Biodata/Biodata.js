@@ -18,12 +18,12 @@ export default function biodata() {
                     <div class="aboutme-info_body">
                         <h1 class="aboutme-info_member-name">Blessed Adudu</h1>
                         <h4 class="aboutme-info_member-job">Frontend Developer</h4>
-                        <p class="aboutme-info_member-text">I am Blessed Adudu, a graduate of Covenant University, 
-                        from the department of Mechanical Engineering (4.25/5 ~ CGPA).<br/>
-                        I am a Frontend developer with core skills of HTML5, CSS3, Sass, Javascript, jQuery, React; and its ecosystem, and other modern 
-                        technologies. 
-                        I am into optimization, Progressive web app (PWA), SEO principles, Version control, Testing.<br/>
-                        Also, I am smart, a willing and fast learner, a team player, problem solver and a critical thinker.</p>
+                        <p class="aboutme-info_member-text">I am a passionate frontend developer with core skills of HTML5, CSS3, Sass, JavaScript, jQuery,
+                        React, Redux, React Hooks, Node, Express, PostgreSQL and other modern technologies. I am into
+                        optimization, Progressive Web Apps (PWA), Testing.<br/>
+                        With my skillset, I have helped companies built industry standard websites to satisfy their clients.
+                        I have worked extensively in teams with professionals across different fields to produce tangible
+                        results. I am fluent in English, and hope to reach the same level in French and Italian..</p>
                 <article class="aboutme-info_member-favorites">
                     {/* <!-- single favorite --> */}
                     <div class="aboutme-info_member-single-favorite">
@@ -57,7 +57,7 @@ export default function biodata() {
                     {/* <!-- end of single favorite --> */}
                     {/* <!-- resume --> */}
                      <a class="resume" 
-                     href="https://drive.google.com/file/d/1QBOvOtqT6xEJACqsy_GGbHGMkZyfUH8_/view?usp=sharing" 
+                     href="https://drive.google.com/file/d/1mgvdNRNRgjYf8pixwRTmuFSHRa_1Fx1X/view?usp=sharing" without rel="noopener noreferrer"
                      target="_blank">
                          click to download resume
                     </a>
