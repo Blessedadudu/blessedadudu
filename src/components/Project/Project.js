@@ -40,11 +40,11 @@ export default function Project() {
                     {/* <!-- end of project --> */}
                     <article className="project item-margin">
                         <div className="project_info">
-                            <h1 className="project_info-title">Google Clone</h1>
+                            <h1 className="project_info-title">Deluxe Resort</h1>
                             <div className="project_info-underline"></div>
                             <p className="project_info-text">Using react to build beach resort web app where user can navigate through available rooms.       
                             </p>
-                            <a href="https://googleclone-blessed.netlify.app/" target="_blank" without rel="noopener noreferrer"
+                            <a href="https://deluxeresort.netlify.app/" target="_blank" without rel="noopener noreferrer"
                             className="project_info-link">
                             Click to View
                             </a>

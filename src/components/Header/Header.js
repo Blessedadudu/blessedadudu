@@ -20,7 +20,7 @@ const Header = () => {
                         <strong className="banner_titlename">Frontend Developer...</strong>
                     </h1>
                 </article>
-
+ 
                 {/* video */}
                 <div className="video_container">
                         <video className="video_item" id="video" autoPlay loop muted>

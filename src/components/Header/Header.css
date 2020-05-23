@@ -5,7 +5,7 @@
     /* for the rest of the elements */
     position: relative;
 }
-/* banner */
+/* banner */ 
 .banner {
     margin-left: 2rem;
     border-left: 0.5rem solid var(--yellow);
