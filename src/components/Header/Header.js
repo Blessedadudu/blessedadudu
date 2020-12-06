@@ -17,7 +17,7 @@ const Header = () => {
             <header className="header" id="header">
                 <article className="banner">
                     <h1 className="bannertitle">Blessed Adudu. 
-                        <strong className="banner_titlename">Frontend Developer...</strong>
+                        <strong className="banner_titlename">Fullstack Frontend Engineer...</strong>
                     </h1>
                 </article>
  
