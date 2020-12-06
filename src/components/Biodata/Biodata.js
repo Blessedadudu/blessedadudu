@@ -18,9 +18,7 @@ export default function biodata() {
                     <div class="aboutme-info_body">
                         <h1 class="aboutme-info_member-name">Blessed Adudu</h1>
                         <h4 class="aboutme-info_member-job">Frontend Developer</h4>
-                        <p class="aboutme-info_member-text">I am a passionate frontend developer with core skills of HTML5, CSS3, Sass, JavaScript, jQuery,
-                        React, Redux, React Hooks, Node, Express, PostgreSQL and other modern technologies. I am into
-                        optimization, Progressive Web Apps (PWA), Testing.<br/>
+                        <p class="aboutme-info_member-text">I am a passionate Frontend developer with core skills of HTML5, CSS3, Sass, JavaScript, jQuery, React, Redux, React Hooks, Vue, Node, Express, MongoDB, PostgreSQL and other modern technologies. I am into optimization, Progressive Web Apps (PWA), Testing.<br/>
                         With my skillset, I have helped companies built industry standard websites to satisfy their clients.
                         I have worked extensively in teams with professionals across different fields to produce tangible
                         results. I am fluent in English, and hope to reach the same level in French and Italian..</p>
@@ -57,7 +55,7 @@ export default function biodata() {
                     {/* <!-- end of single favorite --> */}
                     {/* <!-- resume --> */}
                      <a class="resume" 
-                     href="https://drive.google.com/file/d/1mgvdNRNRgjYf8pixwRTmuFSHRa_1Fx1X/view?usp=sharing" without rel="noopener noreferrer"
+                     href="https://drive.google.com/file/d/1hMoivpzwXJawx57rWCEOHnsr0W9etGpx/view?usp=sharing" without rel="noopener noreferrer"
                      target="_blank">
                          click to download resume
                     </a>

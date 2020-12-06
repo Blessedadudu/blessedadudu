@@ -10,8 +10,8 @@ export default function Project() {
                         <i className="fas fa-project-diagram"></i>
                     </div>
                     <div className="reverse-section-title_text">
-                        <h1 className="reverse-section-title_name">projects</h1>
-                        <h4 className="reverse-section-title_info">...A few outstanding projects i have worked on</h4>
+                        <h1 className="reverse-section-title_name">Recent projects</h1>
+                        <h4 className="reverse-section-title_info">...A few recent projects I worked on</h4>
                     </div>
                 </div>
                 <div className="flexbox-parent">
@@ -27,6 +27,17 @@ export default function Project() {
                     </article>
                     <article className="project item-margin">
                         <div className="project_info">
+                            <h1 className="project_info-title">Canaan Towers Frontend</h1>
+                            <div className="project_info-underline"></div>
+                            <p className="project_info-text">Using Vue to build an optimized Dashboard for an Admin to be able to manage quotes from end Users, Add Sub-Admin, revoke access of such Admin as well. Post Services and goods which end users can see. Integrated Payment gateway which Users can use to make payment for services offered by the Admin.</p>
+                            {/* <a href="https://googleclone-blessed.netlify.app/" target="_blank" without rel="noopener noreferrer"
+                            className="project_info-link">
+                            Click to View
+                            </a> */}
+                        </div>
+                    </article>
+                    <article className="project item-margin">
+                        <div className="project_info">
                             <h1 className="project_info-title">Google Clone</h1>
                             <div className="project_info-underline"></div>
                             <p className="project_info-text">Using Sass, React to build the landing app of the Google Gmail.         
@@ -35,6 +46,14 @@ export default function Project() {
                             className="project_info-link">
                             Click to View
                             </a>
+                        </div>
+                    </article>
+                    <article className="project item-margin">
+                        <div className="project_info">
+                            <h1 className="project_info-title">Canaan Towers Backend</h1>
+                            <div className="project_info-underline"></div>
+                            <p className="project_info-text">Using Node, Express and MongoDB. Built a fully-fledged backend for an Admin and Users. The admin offers services and sells products. I design the architecture for the backend, built the APIs and database which house the all the vital information.         
+                            </p>
                         </div>
                     </article>
                     {/* <!-- end of project --> */}
